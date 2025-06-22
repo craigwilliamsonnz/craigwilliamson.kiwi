@@ -1,0 +1,1 @@
+import{Oa as t,Za as n,_a as i,ib as p,xb as s}from"./chunk-APRCEBL4.js";var l=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-blog"]],decls:2,vars:0,consts:[["data-testid","blog-content"]],template:function(e,a){e&1&&(n(0,"p",0),p(1,"Blogging works"),i())},dependencies:[s],encapsulation:2})};export{l as BlogComponent};
