@@ -1,1 +1,0 @@
-import{Oa as t,Za as r,_a as n,ib as p,xb as s}from"./chunk-APRCEBL4.js";var a=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-error"]],decls:2,vars:0,consts:[["data-testid","error-content"]],template:function(e,m){e&1&&(r(0,"p",0),p(1,"Error page works!"),n())},dependencies:[s],encapsulation:2})};export{a as ErrorComponent};

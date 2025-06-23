@@ -1,1 +1,0 @@
-import{Oa as n,Za as o,_a as c,ib as a,xb as p}from"./chunk-APRCEBL4.js";var s=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=n({type:e,selectors:[["app-contact"]],decls:2,vars:0,consts:[["data-testid","contact-content"]],template:function(t,m){t&1&&(o(0,"p",0),a(1,"Contact works!"),c())},dependencies:[p],encapsulation:2})};export{s as ContactComponent};

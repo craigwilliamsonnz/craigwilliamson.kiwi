@@ -1,1 +1,0 @@
-import{Oa as t,Za as n,_a as m,ib as p,xb as s}from"./chunk-APRCEBL4.js";var a=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-home"]],decls:2,vars:0,consts:[["data-testid","home-content"]],template:function(e,c){e&1&&(n(0,"p",0),p(1,"Home page works!"),m())},dependencies:[s],encapsulation:2})};export{a as HomeComponent};
